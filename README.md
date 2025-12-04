@@ -5,3 +5,6 @@
   <img src="dog-oh-really.mp4" alt="gif1" width="350">
   <img src="lie-meme.mp4" alt="gif2" width="350">
 </div>
+<div style="text-align: center;">
+  <img src="coke-pepsi.mp4" alt="gif3" width="300">
+</div>
